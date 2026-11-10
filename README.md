@@ -15,7 +15,7 @@ Building reliable APIs, exploring backend architecture, and sharpening problem-s
 
 ## About
 
-I’m a **2nd-year B.Tech Computer Science Engineering student** with a strong interest in **backend development and problem solving**. I enjoy building REST APIs, working with databases, and structuring maintainable backend applications.
+I’m pursuing a **B.Tech in Computer Science Engineering (2024–2028)**, with interests in backend development, problem solving, and AI/ML. Over the past six months, I’ve been exploring tools and concepts including **NumPy, pandas, scikit-learn, TensorFlow, Pinecone, retrieval-augmented generation (RAG), and vector databases**. This experience has sparked my interest in building AI agents and machine-learning models, as well as understanding how large language models (LLMs) work.
 
 ## Tech Stack
 
