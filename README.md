@@ -15,7 +15,7 @@ Building reliable APIs, exploring backend architecture, and sharpening problem-s
 
 ## About
 
-I’m pursuing a **B.Tech in Computer Science Engineering (2024–2028)**, with a strong interest in **backend development, problem solving, and AI/ML**. Over the past six months, I’ve been exploring tools and concepts including **NumPy, pandas, scikit-learn, TensorFlow, Pinecone, retrieval-augmented generation (RAG), and vector databases**. This experience has sparked my interest in building AI agents and machine-learning models, while also deepening my understanding of how large language models (LLMs) work. I enjoy creating reliable backend systems and combining that foundation with modern AI-driven solutions.
+I’m pursuing a **B.Tech in Computer Science Engineering (2024–2028)**, with a strong interest in **backend development, problem solving, and AI/ML**. I enjoy building APIs, implementing secure authentication, designing database schemas, and learning how real-world systems are architected and scaled. I’m particularly curious about the technologies and engineering behind systems such as **Redis**, **Instagram**, and **Free Fire**. Over the past six months, I’ve also been exploring **NumPy, pandas, scikit-learn, TensorFlow, Pinecone, retrieval-augmented generation (RAG), and vector databases**. This experience has sparked my interest in building AI agents and machine-learning models, while deepening my understanding of how large language models (LLMs) work.
 
 ## Tech Stack
 
