@@ -15,7 +15,7 @@ Building reliable APIs, exploring backend architecture, and sharpening problem-s
 
 ## About
 
-I’m pursuing a **B.Tech in Computer Science Engineering (2024–2028)**, with a strong interest in **backend development, problem solving, and AI/ML**. I enjoy building APIs, implementing secure authentication, designing database schemas, and learning how real-world systems are architected and scaled. I’m particularly curious about the technologies and engineering behind systems such as **Redis**, **Instagram**, and **Free Fire**. Over the past six months, I’ve also been exploring **NumPy, pandas, scikit-learn, TensorFlow, Pinecone, retrieval-augmented generation (RAG), and vector databases**. This experience has sparked my interest in building AI agents and machine-learning models, while deepening my understanding of how large language models (LLMs) work.
+I’m pursuing a **B.Tech in Computer Science Engineering (2024–2028)**, with a strong interest in **backend development, problem solving, and AI/ML**. I enjoy building APIs, implementing secure authentication, designing database schemas, and learning how real-world systems are architected and scaled. I’m particularly curious about the technologies and engineering behind systems such as **Redis**, **Instagram**, and **Free Fire**. Over the past six months, I’ve been exploring AI/ML and developing an interest in building AI agents and machine-learning models, while deepening my understanding of how large language models (LLMs) work.
 
 ## Tech Stack
 
@@ -30,6 +30,12 @@ I’m pursuing a **B.Tech in Computer Science Engineering (2024–2028)**, with 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
